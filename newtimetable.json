@@ -7,32 +7,6 @@
                     "社日"
                 ],
                 "stageTims": [
-                    "22:00",
-                    "23:00"
-                ]
-            },
-            "timetable": [
-                {
-                    "isshow": true,
-                    "name": "邦尼",
-                    "date": 1582905600,
-                    "event_id": 1,
-                    "info": "台中",
-                    "stage": "社日",
-                    "image": "http://localhost:8094/storage/",
-                    "duration": 60,
-                    "start": "22:40",
-                    "end": "23:40",
-                    "pid": 1
-                }
-            ]
-        },
-        {
-            "stageInfo": {
-                "stageNames": [
-                    "社日"
-                ],
-                "stageTims": [
                     "15:00",
                     "16:00"
                 ]
