@@ -3,7 +3,36 @@
     "data": [
         {
             "stageInfo": {
-                "stageNames": [],
+                "stageNames": [
+                    "社日",
+                    "眠月"
+                ],
+                "stageTims": [
+                    "15:00",
+                    "16:00"
+                ]
+            },
+            "timetable": []
+        },
+        {
+            "stageInfo": {
+                "stageNames": [
+                    "社日",
+                    "眠月"
+                ],
+                "stageTims": [
+                    "15:00",
+                    "16:00"
+                ]
+            },
+            "timetable": []
+        },
+        {
+            "stageInfo": {
+                "stageNames": [
+                    "社日",
+                    "眠月"
+                ],
                 "stageTims": [
                     "15:00",
                     "16:00"
