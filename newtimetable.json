@@ -3,13 +3,7 @@
     "data": [
         {
             "stageInfo": {
-                "stageNames": [
-                    "社日",
-                    "te",
-                    "w",
-                    "w",
-                    "w"
-                ],
+                "stageNames": [],
                 "stageTims": [
                     "15:00",
                     "16:00"
