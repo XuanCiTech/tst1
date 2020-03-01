@@ -10,7 +10,52 @@
         "duration": 40,
         "start": "02:10",
         "end": "02:50",
-        "play_list": [],
+        "play_list": [
+            {
+                "id": 2,
+                "demo_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music6/v4/2d/b0/5b/2db05b1f-9e13-ec6b-ec17-b6a8a5cdc4d9/mzaf_6326869615966081857.plus.aac.p.m4a",
+                "track_img_url": "https://is5-ssl.mzstatic.com/image/thumb/Music5/v4/65/d8/80/65d88058-5a4d-fc0c-5297-b4bd44f5173a/source/100x100bb.jpg",
+                "track_name": "玉碎2015",
+                "artist_name": "閃靈, 血肉果汁機 & BAZZIX",
+                "album_name": "玉碎2015 - Single",
+                "artist_id": 1,
+                "created_at": "2020-03-01 10:00:43",
+                "updated_at": "2020-03-01 10:00:43"
+            },
+            {
+                "id": 3,
+                "demo_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/82/7f/42/827f4214-ed05-a250-92c5-5d219dadb139/mzaf_7747462887153714194.plus.aac.p.m4a",
+                "track_img_url": "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/02/a7/07/02a7075f-c050-e11c-4ef4-d2266ef44f73/source/100x100bb.jpg",
+                "track_name": "上山",
+                "artist_name": "血肉果汁機",
+                "album_name": "GIGO",
+                "artist_id": 1,
+                "created_at": "2020-03-01 10:00:43",
+                "updated_at": "2020-03-01 10:00:43"
+            },
+            {
+                "id": 4,
+                "demo_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/be/93/db/be93dbb7-35ee-5f61-1607-f8833af6b4a8/mzaf_2927932394650579824.plus.aac.p.m4a",
+                "track_img_url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/d3/84/c8/d384c86c-0492-b271-f795-3b367aab2a7f/source/100x100bb.jpg",
+                "track_name": "關閉太陽",
+                "artist_name": "血肉果汁機",
+                "album_name": "深海童話",
+                "artist_id": 1,
+                "created_at": "2020-03-01 10:00:43",
+                "updated_at": "2020-03-01 10:00:43"
+            },
+            {
+                "id": 5,
+                "demo_url": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/6b/5e/70/6b5e70e7-81ab-5f88-9435-aebd258bdf80/mzaf_3762197971793776128.plus.aac.p.m4a",
+                "track_img_url": "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/02/a7/07/02a7075f-c050-e11c-4ef4-d2266ef44f73/source/100x100bb.jpg",
+                "track_name": "泡茶",
+                "artist_name": "血肉果汁機",
+                "album_name": "GIGO",
+                "artist_id": 1,
+                "created_at": "2020-03-01 10:00:43",
+                "updated_at": "2020-03-01 10:00:43"
+            }
+        ],
         "pid": 1
     }
 ]
