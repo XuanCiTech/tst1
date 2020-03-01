@@ -7,22 +7,35 @@
                     "射日"
                 ],
                 "stageTims": [
-                    "17:00"
+                    "18:00"
                 ]
             },
             "timetable": [
                 {
                     "isshow": true,
                     "name": "原子邦尼",
-                    "date": 1582992000,
+                    "date": 1583020800,
                     "event_id": 1,
                     "info": "edit",
                     "stage": "射日",
                     "image": "http://localhost:8094/storage/",
                     "duration": 30,
-                    "start": "17:20",
-                    "end": "17:50",
+                    "start": "09:20",
+                    "end": "09:50",
                     "pid": 2
+                },
+                {
+                    "isshow": true,
+                    "name": "血肉果汁",
+                    "date": 1583020800,
+                    "event_id": 1,
+                    "info": "edit",
+                    "stage": "射日",
+                    "image": "http://localhost:8094/storage/",
+                    "duration": 40,
+                    "start": "18:10",
+                    "end": "18:50",
+                    "pid": 1
                 }
             ]
         },
@@ -32,24 +45,11 @@
                     "射日"
                 ],
                 "stageTims": [
-                    "02:00"
+                    "07:00",
+                    "08:00"
                 ]
             },
-            "timetable": [
-                {
-                    "isshow": true,
-                    "name": "血肉果汁",
-                    "date": 1582992000,
-                    "event_id": 1,
-                    "info": "edit",
-                    "stage": "射日",
-                    "image": "http://localhost:8094/storage/",
-                    "duration": 40,
-                    "start": "02:10",
-                    "end": "02:50",
-                    "pid": 1
-                }
-            ]
+            "timetable": []
         }
     ]
 }
