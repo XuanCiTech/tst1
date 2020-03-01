@@ -4,7 +4,8 @@
         {
             "stageInfo": {
                 "stageNames": [
-                    "FESTiO"
+                    "FESTiO",
+                    "FESTiO2"
                 ],
                 "stageTims": [
                     "09:00",
@@ -30,7 +31,8 @@
         {
             "stageInfo": {
                 "stageNames": [
-                    "FESTiO"
+                    "FESTiO",
+                    "FESTiO2"
                 ],
                 "stageTims": [
                     "07:00",
@@ -42,7 +44,8 @@
         {
             "stageInfo": {
                 "stageNames": [
-                    "FESTiO"
+                    "FESTiO",
+                    "FESTiO2"
                 ],
                 "stageTims": [
                     "07:00",
