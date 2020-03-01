@@ -38,18 +38,6 @@
                     "pid": 1
                 }
             ]
-        },
-        {
-            "stageInfo": {
-                "stageNames": [
-                    "射日"
-                ],
-                "stageTims": [
-                    "07:00",
-                    "08:00"
-                ]
-            },
-            "timetable": []
         }
     ]
 }
