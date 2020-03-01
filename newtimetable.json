@@ -8,22 +8,24 @@
                     "FESTiO2"
                 ],
                 "stageTims": [
-                    "09:00",
-                    "10:00"
+                    "10:00",
+                    "11:00",
+                    "12:00",
+                    "13:00"
                 ]
             },
             "timetable": [
                 {
                     "isshow": true,
                     "name": "晨曦光廊",
-                    "date": 1583027400,
+                    "date": 1583031000,
                     "event_id": 1,
                     "info": "噢噢噢好好好",
                     "stage": "FESTiO",
                     "image": "https://festio.app/storage/URX5JYH6Au8040OD.png",
-                    "duration": 60,
-                    "start": "09:50",
-                    "end": "10:50",
+                    "duration": 180,
+                    "start": "10:50",
+                    "end": "13:50",
                     "pid": 1
                 }
             ]
