@@ -3,7 +3,9 @@
     "data": [
         {
             "stageInfo": {
-                "stageNames": [],
+                "stageNames": [
+                    "射日"
+                ],
                 "stageTims": [
                     "15:00",
                     "16:00"
