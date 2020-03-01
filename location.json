@@ -1,13 +1,5 @@
 {
     "eventId": 1,
-    "areaImage": "https://festio.app/storage",
-    "locations": [
-        {
-            "pid": 1,
-            "lat": "24",
-            "lon": "24",
-            "des": "廁所",
-            "type": 1
-        }
-    ]
+    "areaImage": "http://localhost:8094/storage",
+    "locations": []
 }
