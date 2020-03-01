@@ -3,63 +3,13 @@
     "data": [
         {
             "stageInfo": {
-                "stageNames": [
-                    "射日"
-                ],
+                "stageNames": [],
                 "stageTims": [
-                    "09:00",
-                    "10:00",
-                    "11:00",
-                    "12:00",
-                    "13:00",
-                    "14:00",
-                    "15:00",
-                    "16:00",
-                    "17:00",
-                    "18:00"
+                    "07:00",
+                    "08:00"
                 ]
             },
-            "timetable": [
-                {
-                    "isshow": true,
-                    "name": "原子邦尼",
-                    "date": 1583025600,
-                    "event_id": 1,
-                    "info": "edit",
-                    "stage": "射日",
-                    "image": "http://localhost:8094/storage/",
-                    "duration": 30,
-                    "start": "09:20",
-                    "end": "09:50",
-                    "pid": 2
-                },
-                {
-                    "isshow": false,
-                    "name": "",
-                    "date": "",
-                    "event_id": -1,
-                    "info": "",
-                    "stage": "",
-                    "image": "",
-                    "duration": 500,
-                    "start": "09:50",
-                    "end": "18:10",
-                    "pid": -1
-                },
-                {
-                    "isshow": true,
-                    "name": "血肉果汁",
-                    "date": 1583057400,
-                    "event_id": 1,
-                    "info": "edit",
-                    "stage": "射日",
-                    "image": "http://localhost:8094/storage/jkEaO2TlSMZ1nbzS.png",
-                    "duration": 40,
-                    "start": "18:10",
-                    "end": "18:50",
-                    "pid": 1
-                }
-            ]
+            "timetable": []
         }
     ]
 }
