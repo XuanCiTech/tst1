@@ -7,6 +7,31 @@
                     "射日"
                 ],
                 "stageTims": [
+                    "17:00"
+                ]
+            },
+            "timetable": [
+                {
+                    "isshow": true,
+                    "name": "原子邦尼",
+                    "date": 1582992000,
+                    "event_id": 1,
+                    "info": "edit",
+                    "stage": "射日",
+                    "image": "http://localhost:8094/storage/",
+                    "duration": 30,
+                    "start": "17:20",
+                    "end": "17:50",
+                    "pid": 2
+                }
+            ]
+        },
+        {
+            "stageInfo": {
+                "stageNames": [
+                    "射日"
+                ],
+                "stageTims": [
                     "02:00"
                 ]
             },
