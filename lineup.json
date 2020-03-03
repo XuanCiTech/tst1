@@ -103,5 +103,40 @@
             }
         ],
         "pid": 1
+    },
+    {
+        "isshow": true,
+        "name": "OBSESS",
+        "date": 1583884800,
+        "event_id": 1,
+        "info": "OBSESS成立自2008年，樂團始終保持謹慎的態度，記錄每一件這個世界正在發生的故事，之後以極大化的情緒詮釋成曲。OBSESS的音樂早期受到Emo、Emo punk、Post hardcore的樂風影響極深,以如此直接並帶著豐富情感的音樂去衝擊聽眾的感官與思想，是OBSESS一直在做的事。",
+        "stage": "NTW摔角舞台",
+        "image": "https://festio.app/storage/artist/7uuaeldMbBvzvvXV.jpg",
+        "duration": 60,
+        "start": "16:00",
+        "end": "17:00",
+        "play_list": [
+            {
+                "name": "權利喪失",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music4/v4/7a/f1/d0/7af1d0b2-0ca5-7eef-28db-5a437ec10111/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music4/v4/21/1b/96/211b96b2-8e4d-dd08-074f-3bc53c985716/mzaf_4430586069468020762.plus.aac.p.m4a"
+            },
+            {
+                "name": "惡果",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/0c/61/28/0c61287c-2a2a-96ca-4d7f-add02821009c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/cd/a7/3d/cda73d07-a01f-1174-7197-692aa22e7a2a/mzaf_6285534889209752497.plus.aac.p.m4a"
+            },
+            {
+                "name": "重要的是愛",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/1b/5a/1e/1b5a1e6d-de1e-3cce-0fd2-6d406eeb2e8e/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/ef/7a/29/ef7a2924-5eee-c737-0316-57c49ed92fef/mzaf_18122416996220051572.plus.aac.p.m4a"
+            },
+            {
+                "name": "不再回來",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/1b/5a/1e/1b5a1e6d-de1e-3cce-0fd2-6d406eeb2e8e/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/9e/89/04/9e89042e-ed46-6b54-e56c-0ef2946c1cff/mzaf_2210456442897033649.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 2
     }
 ]
