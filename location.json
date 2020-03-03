@@ -1,14 +1,5 @@
 {
     "eventId": 1,
-    "areaImage": "http://li1557-167.members.linode.com/storage/event/NoNJhwArXDPv8MsL.jpg",
-    "areaImageX": "http://li1557-167.members.linode.com/storage/event/42zpym4Fayi9nPrR.jpg",
-    "locations": [
-        {
-            "pid": 1,
-            "lat": "24",
-            "lon": "192",
-            "des": "Test",
-            "type": 1
-        }
-    ]
+    "areaImage": "https://festio.app/storage",
+    "locations": []
 }
