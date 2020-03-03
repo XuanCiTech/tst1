@@ -58,7 +58,7 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 240,
+                        "duration": 300,
                         "start": "16:00",
                         "end": "20:00",
                         "pid": -1
@@ -99,7 +99,7 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 180,
+                        "duration": 240,
                         "start": "17:00",
                         "end": "20:00",
                         "pid": -1
@@ -140,7 +140,7 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 380,
+                        "duration": 440,
                         "start": "13:40",
                         "end": "20:00",
                         "pid": -1
@@ -181,7 +181,7 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 70,
+                        "duration": 130,
                         "start": "18:50",
                         "end": "20:00",
                         "pid": -1
@@ -222,7 +222,7 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 130,
+                        "duration": 190,
                         "start": "17:50",
                         "end": "20:00",
                         "pid": -1
@@ -263,7 +263,7 @@
                         "image": "",
                         "duration": 540,
                         "start": "12:00",
-                        "end": "21:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -278,7 +278,7 @@
                         "image": "",
                         "duration": 540,
                         "start": "12:00",
-                        "end": "21:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -293,7 +293,7 @@
                         "image": "",
                         "duration": 540,
                         "start": "12:00",
-                        "end": "21:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -308,7 +308,7 @@
                         "image": "",
                         "duration": 540,
                         "start": "12:00",
-                        "end": "21:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -323,7 +323,7 @@
                         "image": "",
                         "duration": 540,
                         "start": "12:00",
-                        "end": "21:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ]
@@ -362,7 +362,7 @@
                         "image": "",
                         "duration": 540,
                         "start": "12:00",
-                        "end": "21:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -377,7 +377,7 @@
                         "image": "",
                         "duration": 540,
                         "start": "12:00",
-                        "end": "21:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -392,7 +392,7 @@
                         "image": "",
                         "duration": 540,
                         "start": "12:00",
-                        "end": "21:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -407,7 +407,7 @@
                         "image": "",
                         "duration": 540,
                         "start": "12:00",
-                        "end": "21:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -422,7 +422,7 @@
                         "image": "",
                         "duration": 540,
                         "start": "12:00",
-                        "end": "21:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ]
