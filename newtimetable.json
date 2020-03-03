@@ -46,7 +46,7 @@
                         "event_id": 1,
                         "info": "test",
                         "stage": "Test",
-                        "image": "http://localhost:8094/storage/artist/BzBGhi5sNpKceMuL.png",
+                        "image": "http://li1557-167.members.linode.com/storage/artist/BzBGhi5sNpKceMuL.png",
                         "duration": 60,
                         "start": "09:50",
                         "end": "10:50",
