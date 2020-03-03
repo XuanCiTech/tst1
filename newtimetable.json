@@ -97,9 +97,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": -600,
+                        "duration": 600,
                         "start": "12:00",
-                        "end": "02:00",
+                        "end": "22:00",
                         "pid": -1
                     }
                 ]
@@ -134,9 +134,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": -600,
+                        "duration": 600,
                         "start": "12:00",
-                        "end": "02:00",
+                        "end": "22:00",
                         "pid": -1
                     }
                 ]
