@@ -110,6 +110,47 @@
                         "end": "22:00",
                         "pid": -1
                     }
+                ],
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 300,
+                        "start": "8:00",
+                        "end": "13:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "SEX MACHINEGUNS",
+                        "date": 1583902800,
+                        "event_id": 1,
+                        "info": "譯自英文-Sex Machineguns是一支日本重金屬樂隊，成立於1989年。他們的音樂以貝斯為重，以及極快的吉他和貝司獨奏。樂隊穿著視覺系樂隊等瘋狂而異國情調的服裝，使用“衝擊搖滾”的形象，儘管這種形像已經被淡化了，特別是自2003年長期貝斯手Noisy離開樂隊以來。歌詞具有非常另類和不嚴肅的主題。",
+                        "stage": "城市巨響舞台",
+                        "image": "https://festio.app/storage/artist/nA1HgLB744xFKJE4.jpg",
+                        "duration": 40,
+                        "start": "13:00",
+                        "end": "13:40",
+                        "pid": 3
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 500,
+                        "start": "13:40",
+                        "end": "22:00",
+                        "pid": -1
+                    }
                 ]
             ]
         },
