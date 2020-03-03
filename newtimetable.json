@@ -3,7 +3,9 @@
     "data": [
         {
             "stageInfo": {
-                "stageNames": [],
+                "stageNames": [
+                    "FESTiO"
+                ],
                 "stageTims": [
                     "08:00",
                     "09:00",
@@ -25,7 +27,9 @@
         },
         {
             "stageInfo": {
-                "stageNames": [],
+                "stageNames": [
+                    "FESTiO"
+                ],
                 "stageTims": [
                     "12:00",
                     "13:00",
@@ -44,7 +48,9 @@
         },
         {
             "stageInfo": {
-                "stageNames": [],
+                "stageNames": [
+                    "FESTiO"
+                ],
                 "stageTims": [
                     "12:00",
                     "13:00",
