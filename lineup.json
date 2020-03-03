@@ -211,6 +211,36 @@
     },
     {
         "isshow": true,
+        "name": "康士坦的變化球",
+        "date": 1583884800,
+        "event_id": 1,
+        "info": "2013年由知名樂團 infernal chaos 主唱CIG發起的獨立樂團，樂評認定樂風為後搖滾POST ROCK或EMO，成員有：\nARNY（吉他手/草莓救星、週休八日/作品遍及電影電視廣告配樂等）、\nCT（VJ & Synth/草莓救星）、\nIYUN 小米（鼓手/前糖果酒）、\nSION（貝斯手/前梅花参/參與張惠妹、阿密特專輯錄音及現場演出等）\n\n2014 在VJ CT加入編制後確定目前陣容，即將於2016年底發行首張專輯。",
+        "stage": "浮現舞台",
+        "image": "https://festio.app/storage/artist/5seJDOfLMuJCk8EM.jpg",
+        "duration": 40,
+        "start": "17:10",
+        "end": "17:50",
+        "play_list": [
+            {
+                "name": "擱淺的人",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/ad/ed/14aded7b-b84d-2e31-173e-2e50aeaa01c0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c7/97/50/c7975068-c0c7-6769-ba5f-bd0da2a8120d/mzaf_7442991422931836689.plus.aac.p.m4a"
+            },
+            {
+                "name": "在你死後才想起曾經答應陪你去散步",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/ad/ed/14aded7b-b84d-2e31-173e-2e50aeaa01c0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview111/v4/b1/13/ba/b113badc-4e2a-c173-c432-7a6ec000b994/mzaf_3990049612381494628.plus.aac.p.m4a"
+            },
+            {
+                "name": "Intro / 溫暖而綿長的, 餘燼",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/ad/ed/14aded7b-b84d-2e31-173e-2e50aeaa01c0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3f/f7/68/3ff768c8-a4c4-7199-5bf5-5894fcfe25a1/mzaf_6501291253313606479.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 5
+    },
+    {
+        "isshow": true,
         "name": "無妄合作社",
         "date": 1583884800,
         "event_id": 1,
