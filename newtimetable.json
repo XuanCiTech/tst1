@@ -3,112 +3,30 @@
     "data": [
         {
             "stageInfo": {
-                "stageNames": [
-                    "Test"
-                ],
+                "stageNames": [],
                 "stageTims": [
-                    "08:00",
-                    "09:00",
-                    "10:00",
-                    "11:00",
-                    "12:00",
-                    "13:00",
-                    "14:00",
-                    "15:00",
-                    "16:00",
-                    "17:00",
-                    "18:00",
-                    "19:00",
-                    "20:00",
-                    "21:00",
-                    "22:00"
-                ]
-            },
-            "timetable": [
-                [
-                    {
-                        "isshow": false,
-                        "name": "",
-                        "date": "",
-                        "event_id": -1,
-                        "info": "",
-                        "stage": "",
-                        "image": "",
-                        "duration": 110,
-                        "start": "8:00",
-                        "end": "09:50",
-                        "pid": -1
-                    },
-                    {
-                        "isshow": true,
-                        "name": "Test",
-                        "date": 1583805000,
-                        "event_id": 1,
-                        "info": "test",
-                        "stage": "Test",
-                        "image": "http://li1557-167.members.linode.com/storage/artist/BzBGhi5sNpKceMuL.png",
-                        "duration": 60,
-                        "start": "09:50",
-                        "end": "10:50",
-                        "pid": 1
-                    },
-                    {
-                        "isshow": false,
-                        "name": "",
-                        "date": "",
-                        "event_id": -1,
-                        "info": "",
-                        "stage": "",
-                        "image": "",
-                        "duration": 670,
-                        "start": "10:50",
-                        "end": "22:00",
-                        "pid": -1
-                    }
-                ]
-            ]
-        },
-        {
-            "stageInfo": {
-                "stageNames": [
-                    "Test"
-                ],
-                "stageTims": [
-                    "09:00",
-                    "10:00",
-                    "11:00",
-                    "12:00",
-                    "13:00",
-                    "14:00",
-                    "15:00",
-                    "16:00",
-                    "17:00",
-                    "18:00",
-                    "19:00",
-                    "20:00",
-                    "21:00",
-                    "22:00"
+                    "07:00",
+                    "08:00"
                 ]
             },
             "timetable": []
         },
         {
             "stageInfo": {
-                "stageNames": [
-                    "Test"
-                ],
+                "stageNames": [],
                 "stageTims": [
-                    "12:00",
-                    "13:00",
-                    "14:00",
-                    "15:00",
-                    "16:00",
-                    "17:00",
-                    "18:00",
-                    "19:00",
-                    "20:00",
-                    "21:00",
-                    "22:00"
+                    "07:00",
+                    "08:00"
+                ]
+            },
+            "timetable": []
+        },
+        {
+            "stageInfo": {
+                "stageNames": [],
+                "stageTims": [
+                    "07:00",
+                    "08:00"
                 ]
             },
             "timetable": []
