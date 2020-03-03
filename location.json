@@ -1,13 +1,5 @@
 {
     "eventId": 1,
-    "areaImage": "http://localhost:8094/storagepj458jrbYnrHkpqJ.png",
-    "locations": [
-        {
-            "pid": 1,
-            "lat": "55",
-            "lon": "5",
-            "des": "test",
-            "type": 1
-        }
-    ]
+    "areaImage": "http://localhost:8094/storage",
+    "locations": []
 }
