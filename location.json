@@ -4,13 +4,6 @@
     "areaImageX": "https://festio.app/storage/event/",
     "locations": [
         {
-            "pid": 1,
-            "lat": "24.200111",
-            "lon": "120.684595",
-            "des": "浮現舞台",
-            "type": 1
-        },
-        {
             "pid": 2,
             "lat": "25.043826",
             "lon": "121.559869",
