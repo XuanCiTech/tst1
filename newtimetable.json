@@ -46,9 +46,9 @@
                         "info": "FESTiO Test",
                         "stage": "FESTiO",
                         "image": "http://localhost:8094/storage/",
-                        "duration": 20,
+                        "duration": 80,
                         "start": "19:30",
-                        "end": "19:50",
+                        "end": "20:50",
                         "pid": 1
                     },
                     {
@@ -59,8 +59,8 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 70,
-                        "start": "19:50",
+                        "duration": 10,
+                        "start": "20:50",
                         "end": "21:00",
                         "pid": -1
                     }
