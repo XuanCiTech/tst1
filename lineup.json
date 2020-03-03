@@ -1,6 +1,76 @@
 [
     {
         "isshow": true,
+        "name": "SEX MACHINEGUNS",
+        "date": 1583884800,
+        "event_id": 1,
+        "info": "譯自英文-Sex Machineguns是一支日本重金屬樂隊，成立於1989年。他們的音樂以貝斯為重，以及極快的吉他和貝司獨奏。樂隊穿著視覺系樂隊等瘋狂而異國情調的服裝，使用“衝擊搖滾”的形象，儘管這種形像已經被淡化了，特別是自2003年長期貝斯手Noisy離開樂隊以來。歌詞具有非常另類和不嚴肅的主題。",
+        "stage": "城市巨響舞台",
+        "image": "https://festio.app/storage/artist/nA1HgLB744xFKJE4.jpg",
+        "duration": 40,
+        "start": "13:00",
+        "end": "13:40",
+        "play_list": [
+            {
+                "name": "German Power (Re-Recording 2018)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/10/bb/9f/10bb9f2e-9ad1-0fce-cb5a-1ad85adb6db9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/02/09/5f/02095fc4-0e26-9a03-cacb-2c0a63f45de2/mzaf_3262873952812820953.plus.aac.p.m4a"
+            },
+            {
+                "name": "Metal Venture Man",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/10/bb/9f/10bb9f2e-9ad1-0fce-cb5a-1ad85adb6db9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/90/ce/4f/90ce4f98-4e30-1da4-f384-ea6cf1449fec/mzaf_6017446437274039304.plus.aac.p.m4a"
+            },
+            {
+                "name": "Crush Christmas",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/10/bb/9f/10bb9f2e-9ad1-0fce-cb5a-1ad85adb6db9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/85/53/eb/8553eb30-6ba4-733c-b8ab-1a85ca876efc/mzaf_1560357362673566921.plus.aac.p.m4a"
+            },
+            {
+                "name": "No Salmon",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/10/bb/9f/10bb9f2e-9ad1-0fce-cb5a-1ad85adb6db9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/9f/21/7f/9f217f4b-b536-045d-73d6-f1243dc2167a/mzaf_486758205053196143.plus.aac.p.m4a"
+            },
+            {
+                "name": "Coin Laundry Sandman",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/10/bb/9f/10bb9f2e-9ad1-0fce-cb5a-1ad85adb6db9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/e1/b2/b1/e1b2b1e2-5dbb-44dd-f46b-361ff12883b0/mzaf_8257295246116735820.plus.aac.p.m4a"
+            },
+            {
+                "name": "Nature Power",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/10/bb/9f/10bb9f2e-9ad1-0fce-cb5a-1ad85adb6db9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/9e/09/a6/9e09a691-8d74-900a-cef6-72ee0f29d55b/mzaf_7292173944475145416.plus.aac.p.m4a"
+            },
+            {
+                "name": "Unagi No Oosama",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/10/bb/9f/10bb9f2e-9ad1-0fce-cb5a-1ad85adb6db9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/82/24/52/82245212-2940-4b22-888f-fae2d700da74/mzaf_8314468006826431351.plus.aac.p.m4a"
+            },
+            {
+                "name": "Baikin No Gyakusyu",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/10/bb/9f/10bb9f2e-9ad1-0fce-cb5a-1ad85adb6db9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/3a/32/93/3a32939b-f4ee-3cc2-c32e-0674a8955ad0/mzaf_3466616680923171244.plus.aac.p.m4a"
+            },
+            {
+                "name": "Burning Fire",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/10/bb/9f/10bb9f2e-9ad1-0fce-cb5a-1ad85adb6db9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/c5/02/ad/c502ad88-0f35-4031-2c01-785e175ee6e7/mzaf_230031405835741243.plus.aac.p.m4a"
+            },
+            {
+                "name": "MIKAN NO UTA (Re-Recording 2018)",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/10/bb/9f/10bb9f2e-9ad1-0fce-cb5a-1ad85adb6db9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/67/bf/8b/67bf8bb4-b2fc-fce2-d80d-76749e260983/mzaf_932633187290999421.plus.aac.p.m4a"
+            },
+            {
+                "name": "Midori No Obachan",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music4/v4/75/23/15/7523154b-9088-d266-2f31-889dc91505a5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/05/ae/5e/05ae5ed5-4e89-52e4-66df-13862b148d1f/mzaf_9197948286439035345.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 3
+    },
+    {
+        "isshow": true,
         "name": "美秀集團",
         "date": 1583884800,
         "event_id": 1,
