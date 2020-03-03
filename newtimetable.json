@@ -192,6 +192,47 @@
                         "end": "22:00",
                         "pid": -1
                     }
+                ],
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 550,
+                        "start": "8:00",
+                        "end": "17:10",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "康士坦的變化球",
+                        "date": 1583917800,
+                        "event_id": 1,
+                        "info": "2013年由知名樂團 infernal chaos 主唱CIG發起的獨立樂團，樂評認定樂風為後搖滾POST ROCK或EMO，成員有：\nARNY（吉他手/草莓救星、週休八日/作品遍及電影電視廣告配樂等）、\nCT（VJ & Synth/草莓救星）、\nIYUN 小米（鼓手/前糖果酒）、\nSION（貝斯手/前梅花参/參與張惠妹、阿密特專輯錄音及現場演出等）\n\n2014 在VJ CT加入編制後確定目前陣容，即將於2016年底發行首張專輯。",
+                        "stage": "浮現舞台",
+                        "image": "https://festio.app/storage/artist/5seJDOfLMuJCk8EM.jpg",
+                        "duration": 40,
+                        "start": "17:10",
+                        "end": "17:50",
+                        "pid": 5
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 250,
+                        "start": "17:50",
+                        "end": "22:00",
+                        "pid": -1
+                    }
                 ]
             ]
         },
