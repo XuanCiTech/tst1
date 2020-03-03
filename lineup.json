@@ -7,9 +7,9 @@
         "info": "FESTiO Test",
         "stage": "FESTiO",
         "image": "http://localhost:8094/storage/",
-        "duration": 20,
+        "duration": 80,
         "start": "19:30",
-        "end": "19:50",
+        "end": "20:50",
         "play_list": [],
         "pid": 1
     }
