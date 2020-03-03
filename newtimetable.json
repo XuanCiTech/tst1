@@ -19,10 +19,7 @@
                     "17:00",
                     "18:00",
                     "19:00",
-                    "20:00",
-                    "21:00",
-                    "22:00",
-                    "23:00"
+                    "20:00"
                 ]
             },
             "timetable": [
@@ -61,9 +58,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 420,
+                        "duration": 240,
                         "start": "16:00",
-                        "end": "23:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -102,9 +99,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 360,
+                        "duration": 180,
                         "start": "17:00",
-                        "end": "23:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -143,9 +140,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 560,
+                        "duration": 380,
                         "start": "13:40",
-                        "end": "23:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -184,9 +181,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 250,
+                        "duration": 70,
                         "start": "18:50",
-                        "end": "23:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -225,113 +222,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 310,
+                        "duration": 130,
                         "start": "17:50",
-                        "end": "23:00",
-                        "pid": -1
-                    }
-                ]
-            ]
-        },
-        {
-            "stageInfo": {
-                "stageNames": [
-                    "老司機的台中愛",
-                    "NTW摔角舞台",
-                    "城市巨響舞台",
-                    "光景舞台",
-                    "浮現舞台"
-                ],
-                "stageTims": [
-                    "09:00",
-                    "10:00",
-                    "11:00",
-                    "12:00",
-                    "13:00",
-                    "14:00",
-                    "15:00",
-                    "16:00",
-                    "17:00",
-                    "18:00",
-                    "19:00",
-                    "20:00",
-                    "21:00",
-                    "22:00"
-                ]
-            },
-            "timetable": [
-                [
-                    {
-                        "isshow": false,
-                        "name": "",
-                        "date": "",
-                        "event_id": -1,
-                        "info": "",
-                        "stage": "",
-                        "image": "",
-                        "duration": 780,
-                        "start": "09:00",
-                        "end": "22:00",
-                        "pid": -1
-                    }
-                ],
-                [
-                    {
-                        "isshow": false,
-                        "name": "",
-                        "date": "",
-                        "event_id": -1,
-                        "info": "",
-                        "stage": "",
-                        "image": "",
-                        "duration": 780,
-                        "start": "09:00",
-                        "end": "22:00",
-                        "pid": -1
-                    }
-                ],
-                [
-                    {
-                        "isshow": false,
-                        "name": "",
-                        "date": "",
-                        "event_id": -1,
-                        "info": "",
-                        "stage": "",
-                        "image": "",
-                        "duration": 780,
-                        "start": "09:00",
-                        "end": "22:00",
-                        "pid": -1
-                    }
-                ],
-                [
-                    {
-                        "isshow": false,
-                        "name": "",
-                        "date": "",
-                        "event_id": -1,
-                        "info": "",
-                        "stage": "",
-                        "image": "",
-                        "duration": 780,
-                        "start": "09:00",
-                        "end": "22:00",
-                        "pid": -1
-                    }
-                ],
-                [
-                    {
-                        "isshow": false,
-                        "name": "",
-                        "date": "",
-                        "event_id": -1,
-                        "info": "",
-                        "stage": "",
-                        "image": "",
-                        "duration": 780,
-                        "start": "09:00",
-                        "end": "22:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ]
@@ -355,9 +248,7 @@
                     "17:00",
                     "18:00",
                     "19:00",
-                    "20:00",
-                    "21:00",
-                    "22:00"
+                    "20:00"
                 ]
             },
             "timetable": [
@@ -370,9 +261,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 600,
+                        "duration": 480,
                         "start": "12:00",
-                        "end": "22:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -385,9 +276,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 600,
+                        "duration": 480,
                         "start": "12:00",
-                        "end": "22:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -400,9 +291,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 600,
+                        "duration": 480,
                         "start": "12:00",
-                        "end": "22:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -415,9 +306,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 600,
+                        "duration": 480,
                         "start": "12:00",
-                        "end": "22:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ],
@@ -430,9 +321,108 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 600,
+                        "duration": 480,
                         "start": "12:00",
-                        "end": "22:00",
+                        "end": "20:00",
+                        "pid": -1
+                    }
+                ]
+            ]
+        },
+        {
+            "stageInfo": {
+                "stageNames": [
+                    "老司機的台中愛",
+                    "NTW摔角舞台",
+                    "城市巨響舞台",
+                    "光景舞台",
+                    "浮現舞台"
+                ],
+                "stageTims": [
+                    "12:00",
+                    "13:00",
+                    "14:00",
+                    "15:00",
+                    "16:00",
+                    "17:00",
+                    "18:00",
+                    "19:00",
+                    "20:00"
+                ]
+            },
+            "timetable": [
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 480,
+                        "start": "12:00",
+                        "end": "20:00",
+                        "pid": -1
+                    }
+                ],
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 480,
+                        "start": "12:00",
+                        "end": "20:00",
+                        "pid": -1
+                    }
+                ],
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 480,
+                        "start": "12:00",
+                        "end": "20:00",
+                        "pid": -1
+                    }
+                ],
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 480,
+                        "start": "12:00",
+                        "end": "20:00",
+                        "pid": -1
+                    }
+                ],
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 480,
+                        "start": "12:00",
+                        "end": "20:00",
                         "pid": -1
                     }
                 ]
