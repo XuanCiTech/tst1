@@ -2,5 +2,13 @@
     "eventId": 1,
     "areaImage": "https://festio.app/storage/event/",
     "areaImageX": "https://festio.app/storage/event/",
-    "locations": []
+    "locations": [
+        {
+            "pid": 1,
+            "lat": "24.200111",
+            "lon": "120.684595",
+            "des": "浮現舞台",
+            "type": 1
+        }
+    ]
 }
