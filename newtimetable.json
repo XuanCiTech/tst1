@@ -1,7 +1,7 @@
 {
     "eventId": 1,
-    "data": {
-        "0": {
+    "data": [
+        {
             "stageInfo": {
                 "stageNames": [
                     "FESTiO 舞台"
@@ -68,7 +68,7 @@
                 ]
             ]
         },
-        "1": {
+        {
             "stageInfo": {
                 "stageNames": [
                     "FESTiO 舞台"
@@ -87,58 +87,60 @@
                     "22:00"
                 ]
             },
-            "timetable": []
-        },
-        "2": {
-            "stageInfo": {
-                "stageNames": [
-                    "FESTiO 舞台"
-                ],
-                "stageTims": [
-                    "12:00",
-                    "13:00",
-                    "14:00",
-                    "15:00",
-                    "16:00",
-                    "17:00",
-                    "18:00",
-                    "19:00",
-                    "20:00",
-                    "21:00",
-                    "22:00"
+            "timetable": [
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": -600,
+                        "start": "12:00",
+                        "end": "02:00",
+                        "pid": -1
+                    }
                 ]
-            },
-            "timetable": []
-        },
-        "timetable": [
-            [
-                {
-                    "isshow": false,
-                    "name": "",
-                    "date": "",
-                    "event_id": -1,
-                    "info": "",
-                    "stage": "",
-                    "image": "",
-                    "duration": -600,
-                    "start": "12:00",
-                    "end": "02:00",
-                    "pid": -1
-                },
-                {
-                    "isshow": false,
-                    "name": "",
-                    "date": "",
-                    "event_id": -1,
-                    "info": "",
-                    "stage": "",
-                    "image": "",
-                    "duration": -600,
-                    "start": "12:00",
-                    "end": "02:00",
-                    "pid": -1
-                }
             ]
-        ]
-    }
+        },
+        {
+            "stageInfo": {
+                "stageNames": [
+                    "FESTiO 舞台"
+                ],
+                "stageTims": [
+                    "12:00",
+                    "13:00",
+                    "14:00",
+                    "15:00",
+                    "16:00",
+                    "17:00",
+                    "18:00",
+                    "19:00",
+                    "20:00",
+                    "21:00",
+                    "22:00"
+                ]
+            },
+            "timetable": [
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": -600,
+                        "start": "12:00",
+                        "end": "02:00",
+                        "pid": -1
+                    }
+                ]
+            ]
+        }
+    ]
 }
