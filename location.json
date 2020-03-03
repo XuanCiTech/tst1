@@ -1,6 +1,7 @@
 {
     "eventId": 1,
-    "areaImage": "http://localhost:8094/storageQilPGLw9WHFBGyTl.jpg",
+    "areaImage": "http://192.168.31.13:8094/storage/event/QilPGLw9WHFBGyTl.jpg",
+    "areaImageX": "http://192.168.31.13:8094/storage/event/dfkYrVK8FgH2UVkw.jpg",
     "locations": [
         {
             "pid": 1,
