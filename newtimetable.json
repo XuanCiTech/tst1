@@ -26,30 +26,17 @@
             "timetable": [
                 [
                     {
-                        "isshow": false,
-                        "name": "",
-                        "date": "",
-                        "event_id": -1,
-                        "info": "",
-                        "stage": "",
-                        "image": "",
-                        "duration": 140,
-                        "start": "8:00",
-                        "end": "10:20",
-                        "pid": -1
-                    },
-                    {
-                        "isshow": false,
-                        "name": "",
-                        "date": "",
-                        "event_id": -1,
-                        "info": "",
-                        "stage": "",
-                        "image": "",
-                        "duration": 550,
-                        "start": "21:00",
-                        "end": "06:10",
-                        "pid": -1
+                        "isshow": true,
+                        "name": "test",
+                        "date": 1583202000,
+                        "event_id": 1,
+                        "info": "edit",
+                        "stage": "Test",
+                        "image": "http://localhost:8094/storage/",
+                        "duration": 90,
+                        "start": "10:20",
+                        "end": "11:50",
+                        "pid": 1
                     }
                 ]
             ]
@@ -87,19 +74,6 @@
                         "start": "01:20",
                         "end": "01:50",
                         "pid": 2
-                    },
-                    {
-                        "isshow": false,
-                        "name": "",
-                        "date": "",
-                        "event_id": -1,
-                        "info": "",
-                        "stage": "",
-                        "image": "",
-                        "duration": 1210,
-                        "start": "22:00",
-                        "end": "18:10",
-                        "pid": -1
                     }
                 ]
             ]
