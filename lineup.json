@@ -2,14 +2,14 @@
     {
         "isshow": true,
         "name": "FESTiO Band",
-        "date": 1583193600,
+        "date": 1583712000,
         "event_id": 1,
-        "info": "FESTiO Test",
-        "stage": "FESTiO",
-        "image": "http://localhost:8094/storage/zkWG2107RibPmoaA.png",
-        "duration": 80,
-        "start": "19:30",
-        "end": "20:50",
+        "info": "test",
+        "stage": "FESTiO 舞台",
+        "image": "http://localhost:8094/storage/lDHflKiM3RX6Gd8S.png",
+        "duration": 40,
+        "start": "10:10",
+        "end": "10:50",
         "play_list": [],
         "pid": 1
     }
