@@ -1,1 +1,107 @@
-[]
+[
+    {
+        "isshow": true,
+        "name": "美秀集團",
+        "date": 1583884800,
+        "event_id": 1,
+        "info": "新舊世代碰撞的獨特美學 ✣美秀集團✣\n　\n來自嘉義的低科技俗氣樂隊，以實驗樂器結合搖滾聲響，加上民謠、龐克等元素，帶領觀眾進入愛與欺騙的情慾世界。💘💞💕💔\n　\n直白的詞句和琅琅上口的旋律，以及極具特色的自製樂器，美秀集團帶有復古台味的搖滾和民謠，要在今年夏天的開頭征服大家的心➳！",
+        "stage": "老司機的台中愛",
+        "image": "https://festio.app/storage/artist/BI6Fr5UvG7hDhzns.jpg",
+        "duration": 60,
+        "start": "15:00",
+        "end": "16:00",
+        "play_list": [
+            {
+                "name": "擋一根",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/23/bf/81/23bf81b3-e020-5e6d-4647-4b528f8935ee/mzaf_8997801649136554300.plus.aac.p.m4a"
+            },
+            {
+                "name": "捲菸",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/1b/88/9e/1b889e85-820a-f2d7-eab5-3f13231217b9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/a0/ae/10/a0ae10d8-cc80-b634-ed4b-6005671b4a5b/mzaf_7668997264660554257.plus.aac.p.m4a"
+            },
+            {
+                "name": "我要你愛",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/b2/fa/31/b2fa31fd-914a-d791-c235-7af758db97b4/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/38/37/92/3837925c-2b27-3541-ed42-67c620691410/mzaf_15560172892053819618.plus.aac.p.m4a"
+            },
+            {
+                "name": "小老婆",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/c9/cf/c6/c9cfc62a-60e5-6722-9db3-85ee754b3b0c/mzaf_7874367451354390298.plus.aac.p.m4a"
+            },
+            {
+                "name": "米兒",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/c5/04/7d/c5047d1b-3d95-ae49-b06a-ecfcb8e8ccd3/mzaf_3378465254268221627.plus.aac.p.m4a"
+            },
+            {
+                "name": "做事人",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/5d/5c/2b/5d5c2b3b-0566-b485-30d1-7063d1af86b9/mzaf_3738692422077460070.plus.aac.p.m4a"
+            },
+            {
+                "name": "電火王",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/e0/20/42/e0204275-a571-1e3f-1872-9a87b4e16e9a/mzaf_6156549163612384978.plus.aac.p.m4a"
+            },
+            {
+                "name": "生活袂曉過",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/7d/2c/48/7d2c485d-889e-db7c-8315-252ec63b90e5/mzaf_5537833962881563053.plus.aac.p.m4a"
+            },
+            {
+                "name": "這幾年",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/8f/58/7d/8f587de1-c445-cdf0-a83d-3c287e6bb109/mzaf_1431113432156545793.plus.aac.p.m4a"
+            },
+            {
+                "name": "懶趴火",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/1b/88/9e/1b889e85-820a-f2d7-eab5-3f13231217b9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/6b/05/45/6b054581-ecb2-6fc3-c4d1-ba81f85e3693/mzaf_6095665277613567314.plus.aac.p.m4a"
+            },
+            {
+                "name": "昨暝阿爸無轉來",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/5d/b0/ab/5db0ab2d-f53e-a959-6c54-9f8520acfb80/mzaf_4064347503992322239.plus.aac.p.m4a"
+            },
+            {
+                "name": "一隻雞",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/1b/88/9e/1b889e85-820a-f2d7-eab5-3f13231217b9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/97/27/0d/97270d99-bbb7-2fa0-d9eb-add1a4b958be/mzaf_2996750724013649576.plus.aac.p.m4a"
+            },
+            {
+                "name": "魯之歌",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/80/55/c2/8055c29f-d389-f51c-4af3-ce2817abc5d8/mzaf_835679236117813014.plus.aac.p.m4a"
+            },
+            {
+                "name": "細粒的目睭",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/1b/88/9e/1b889e85-820a-f2d7-eab5-3f13231217b9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/e9/70/62/e9706292-aea9-dbc2-c131-e90b0baef9f1/mzaf_1257813494303411731.plus.aac.p.m4a"
+            },
+            {
+                "name": "Only Scott Knows",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/1b/88/9e/1b889e85-820a-f2d7-eab5-3f13231217b9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/3b/db/a4/3bdba421-f74a-db54-1198-7feafb74c0c3/mzaf_7322689984650289388.plus.aac.p.m4a"
+            },
+            {
+                "name": "細粒的目睭",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/e7/24/2a/e7242a89-f2d1-b11c-1ebf-4f7798dcb1b0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/94/a8/6f/94a86f82-ba49-4920-499c-c022a3e6340a/mzaf_3502502324516105151.plus.aac.p.m4a"
+            },
+            {
+                "name": "總裁水鴛鴦",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/db/43/3f/db433f61-08ab-76ed-d300-0d2683df1b35/mzaf_2695598798280630915.plus.aac.p.m4a"
+            },
+            {
+                "name": "Intro",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5f/96/a4/5f96a473-1059-7c4f-a5f1-fde58a2c9e8d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/45/0c/a7/450ca79f-3c2a-76cf-dc9a-8011035ecad3/mzaf_4821569757164401328.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 1
+    }
+]
