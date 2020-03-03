@@ -208,5 +208,30 @@
             }
         ],
         "pid": 2
+    },
+    {
+        "isshow": true,
+        "name": "無妄合作社",
+        "date": 1583884800,
+        "event_id": 1,
+        "info": "由四個不事生產的懶人組成的樂團，成立以來在台北、基隆與台東等地進行創作，音樂受啟發自香菸焦油、林間野味與都市廢氣。\n\n易經：「無妄之疾，勿藥有喜」，突然得了死不了的病，不吃藥就會痊癒。對於種種欲加諸承擔的文明，我們不願戒斷與根治。",
+        "stage": "光景舞台",
+        "image": "https://festio.app/storage/artist/jzYEzMYfi0SbAlao.jpg",
+        "duration": 40,
+        "start": "18:10",
+        "end": "18:50",
+        "play_list": [
+            {
+                "name": "開店歌",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/2c/05/b6/2c05b6e1-2816-6c09-4517-e6420591f94d/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/f3/7f/04/f37f042a-795c-0a5f-82db-e284fd939538/mzaf_816976834532120690.plus.aac.p.m4a"
+            },
+            {
+                "name": "山頭",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/a0/26/07/a0260785-ebaa-94e2-8cfa-0e854db261a0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/cd/90/9f/cd909f28-4a30-0a04-6c27-493d851a2481/mzaf_12008829829155937676.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 4
     }
 ]
