@@ -1,5 +1,6 @@
 {
     "eventId": 1,
-    "areaImage": "https://festio.app/storage",
+    "areaImage": "https://festio.app/storage/event/",
+    "areaImageX": "https://festio.app/storage/event/",
     "locations": []
 }
