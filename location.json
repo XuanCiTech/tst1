@@ -1,5 +1,13 @@
 {
     "eventId": 1,
-    "areaImage": "http://localhost:8094/storage",
-    "locations": []
+    "areaImage": "http://localhost:8094/storageQilPGLw9WHFBGyTl.jpg",
+    "locations": [
+        {
+            "pid": 1,
+            "lat": "24",
+            "lon": "120",
+            "des": "FESTiO 舞台1",
+            "type": 1
+        }
+    ]
 }
