@@ -1,41 +1,13 @@
 {
     "eventId": 1,
-    "areaImage": "https://festio.app/storage/event/",
-    "areaImageX": "https://festio.app/storage/event/",
+    "areaImage": "http://192.168.31.13:8094/storage/event/eO42YoFCA9dy7fgD.jpg",
+    "areaImageX": "http://192.168.31.13:8094/storage/event/hGgeNWCC82SVAesZ.jpg",
     "locations": [
         {
-            "pid": 2,
-            "lat": 25.043826,
-            "lon": 121.559869,
-            "des": "浮現舞台",
-            "type": 1
-        },
-        {
-            "pid": 3,
-            "lat": 25.043959,
-            "lon": 121.560666,
-            "des": "光景舞台",
-            "type": 1
-        },
-        {
-            "pid": 4,
-            "lat": 25.043728,
-            "lon": 121.561148,
-            "des": "城市巨響舞台",
-            "type": 1
-        },
-        {
-            "pid": 5,
-            "lat": 25.043703,
-            "lon": 121.560729,
-            "des": "NTW摔角舞台",
-            "type": 1
-        },
-        {
-            "pid": 6,
-            "lat": 25.044186,
-            "lon": 121.559656,
-            "des": "老司機的台中愛",
+            "pid": 1,
+            "lat": 24,
+            "lon": 120,
+            "des": "FESTiO 舞台1",
             "type": 1
         }
     ]
